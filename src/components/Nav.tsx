@@ -17,6 +17,9 @@ export default function Nav() {
         <li>
           <Link to={"/routerpropsresult"}>RoutePropsResult</Link>
         </li>
+        <li>
+          <Link to={"/students"}>Student List</Link>
+        </li>
       </ul>
     </>
   );
